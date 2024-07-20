@@ -1,0 +1,28 @@
+{
+  "name": "nucampsite",
+  "version": "1.0.0",
+  "description": "A fictional campsites review website.",
+  "source": "index.html",
+  "scripts": {
+    "start": "parcel --open",
+    "build": "parcel build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/celadon29/webdev-ncs.git"
+  },
+  "keywords": [],
+  "author": "Laura Becker",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/celadon29/webdev-ncs/issues"
+  },
+  "homepage": "https://github.com/celadon29/webdev-ncs#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.6.0",
+    "bootstrap": "^5.2.3"
+  }
+}
